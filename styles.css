@@ -1,0 +1,117 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  font-family: cursive;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+  color: #CF0000;
+}
+
+.top-container {
+  background-color: #F85C70;
+  padding-top: 170px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #FABEC0;
+}
+
+.bottom-container {
+  background-color: #F37970;
+  padding-bottom: 1px;
+}
+
+.Bottom-cloud {
+  position: absolute;
+  left: 360px;
+  bottom: 300px;
+}
+
+.Top-cloud {
+  position: absolute;
+  right: 330px;
+  top: 120px;
+  border-right-width: 20px;
+  margin-right: 50px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CF0000;
+  border-width: 5px;
+  width: 50%;
+}
+
+.Cuber {
+  font-size: 2.5rem;
+  color: #CF0000;
+}
+
+h2 {
+  color: #40514E;
+}
+
+h3 {
+  color: #CF0000;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.rubik {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.yoyo {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background:  #E90064;
+  background-image: -webkit-linear-gradient(top,  #E90064, #B3005E);
+  background-image: -moz-linear-gradient(top,  #E90064, #B3005E);
+  background-image: -ms-linear-gradient(top,  #E90064, #B3005E);
+  background-image: -o-linear-gradient(top,  #E90064, #B3005E);
+  background-image: linear-gradient(to bottom,  #E90064, #B3005E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #B3005E, #FE346E);
+  background-image: -moz-linear-gradient(top, #B3005E, #FE346E);
+  background-image: -ms-linear-gradient(top, #B3005E, #FE346E);
+  background-image: -o-linear-gradient(top, #B3005E, #FE346E);
+  background-image: linear-gradient(to bottom, #B3005E, #FE346E);
+  text-decoration: none;
+}
+
+.Coding {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}

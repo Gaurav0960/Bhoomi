@@ -1,0 +1,64 @@
+body {
+  background-color: #F85C70;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  font-family: cursive;
+}
+
+h1 {
+  font-size: 7rem;
+  margin: 0px auto 0 auto;
+  margin-bottom: 0px;
+  color: #CF0000;
+  font-family: 'Sacramento', cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CF0000;
+  border-width: 5px;
+  width: 50%;
+}
+
+.Submit {
+  background:  #E90064;
+  background-image: -webkit-linear-gradient(top,  #E90064, #B3005E);
+  background-image: -moz-linear-gradient(top,  #E90064, #B3005E);
+  background-image: -ms-linear-gradient(top,  #E90064, #B3005E);
+  background-image: -o-linear-gradient(top,  #E90064, #B3005E);
+  background-image: linear-gradient(to bottom,  #E90064, #B3005E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.Submit:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #B3005E, #FE346E);
+  background-image: -moz-linear-gradient(top, #B3005E, #FE346E);
+  background-image: -ms-linear-gradient(top, #B3005E, #FE346E);
+  background-image: -o-linear-gradient(top, #B3005E, #FE346E);
+  background-image: linear-gradient(to bottom, #B3005E, #FE346E);
+  text-decoration: none;
+}
+
+.Message {
+  width: 300px;
+  height: 200px;
+  background-color: #FABEC0;
+}
+
+.Name {
+  background-color: #FABEC0;
+}
+
+.Gmail {
+  background-color: #FABEC0;
+}
